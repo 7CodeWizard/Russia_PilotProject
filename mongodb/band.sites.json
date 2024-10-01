@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "66efca33029031b54cff8675"
+  },
+  "name": "Triumph Ивент Холл",
+  "type": "Банкетный зал",
+  "capacity": "250",
+  "address": "Москва, Рублевское ш., 8 км",
+  "link_page": "link_page",
+  "video": "1726990899881.mp4",
+  "tags": [
+    "Свет",
+    "Звук",
+    "Видео"
+  ],
+  "cases": [
+    {
+      "$oid": "66f0b547d4c9c037bc98cb34"
+    },
+    {
+      "$oid": "66f0bcb7d4c9c037bc98cd51"
+    },
+    {
+      "$oid": "66f0bce4d4c9c037bc98cd88"
+    },
+    {
+      "$oid": "66f3a744432476e72c9c6a39"
+    }
+  ],
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-09-25T06:01:40.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f08eeec0b027ef4fbf6a6b"
+  },
+  "name": "Private Birthday",
+  "type": "конц. зал",
+  "capacity": "300",
+  "address": "Москва, Рублевское ш., 8 км",
+  "link_page": "link_page",
+  "video": "1727041262076.mp4",
+  "tags": [
+    "Звук",
+    "3D",
+    "Одежда сцены"
+  ],
+  "cases": [
+    {
+      "$oid": "66f0b5ffd4c9c037bc98cb6a"
+    },
+    {
+      "$oid": "66f0bb7dd4c9c037bc98cc11"
+    },
+    {
+      "$oid": "66f0bba1d4c9c037bc98cc48"
+    },
+    {
+      "$oid": "66f0bbd6d4c9c037bc98ccad"
+    },
+    {
+      "$oid": "66f0bc62d4c9c037bc98cce3"
+    },
+    {
+      "$oid": "66f0bc8bd4c9c037bc98cd1a"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f08f15c0b027ef4fbf6a79"
+  },
+  "name": "Корпоративный банкет",
+  "type": "клуб",
+  "capacity": "350",
+  "address": "Москва, Рублевское ш., 8 км",
+  "link_page": "link_page",
+  "video": "1727041301421.mp4",
+  "tags": [
+    "Репетиционная база",
+    "Видео",
+    "Одежда сцены"
+  ],
+  "cases": [
+    {
+      "$oid": "66f0ba92d4c9c037bc98cba5"
+    },
+    {
+      "$oid": "66f0bae4d4c9c037bc98cbdb"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f0c179d4c9c037bc98cdba"
+  },
+  "name": "1930 MOSCOW ",
+  "type": "ресторан",
+  "capacity": "200",
+  "address": "Москва, Партийный пер., 1к6",
+  "link_page": "link_page",
+  "video": "1727054201994.mp4",
+  "tags": [
+    "Звук",
+    "Видео",
+    "3D"
+  ],
+  "cases": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f0c195d4c9c037bc98cdea"
+  },
+  "name": "Барвиха Luxury Village",
+  "type": "конц. зал",
+  "capacity": "150",
+  "address": "Москва, Рублевское ш., 8 км",
+  "link_page": "link_page",
+  "video": "1727054229242.mp4",
+  "tags": [
+    "Звук",
+    "Видео",
+    "Репетиционная база"
+  ],
+  "cases": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f0c1bdd4c9c037bc98ce1a"
+  },
+  "name": "Well Well Music Bistro",
+  "type": "ресторан",
+  "capacity": "200",
+  "address": "Москва, Славянская пл., 2",
+  "link_page": "link_page",
+  "video": "1727054269373.mp4",
+  "tags": [
+    "Звук",
+    "Репетиционная база",
+    "Видео"
+  ],
+  "cases": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f0c1ded4c9c037bc98ce4a"
+  },
+  "name": "Soho Show",
+  "type": "конц. зал",
+  "capacity": "200",
+  "address": "Москва, Саввинская наб. 12/8",
+  "link_page": "link_page",
+  "video": "1727054302053.mp4",
+  "tags": [
+    "Звук",
+    "3D",
+    "Одежда сцены"
+  ],
+  "cases": [
+    {
+      "$oid": "66f294362622a4de25ec887e"
+    },
+    {
+      "$oid": "66f3a837432476e72c9c6aa2"
+    }
+  ],
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-09-25T06:05:43.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f0c1f5d4c9c037bc98ce7a"
+  },
+  "name": "PAPA Moscow",
+  "type": "клуб",
+  "capacity": "250",
+  "address": "Москва, 1-я Брестская улица, 2 стр. 3",
+  "link_page": "link_page",
+  "video": "1727054325265.mp4",
+  "tags": [
+    "Звук",
+    "Репетиционная база",
+    "Видео",
+    "3D"
+  ],
+  "cases": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f0c20fd4c9c037bc98ceaa"
+  },
+  "name": "Savva",
+  "type": "ресторан",
+  "capacity": "240",
+  "address": "Москва, Театральный проезд, д. 2",
+  "link_page": "link_page",
+  "video": "1727054351588.mp4",
+  "tags": [
+    "Свет",
+    "Репетиционная база",
+    "Звук",
+    "Видео",
+    "3D"
+  ],
+  "cases": [
+    {
+      "$oid": "66f2935327fad2cf0e141fa2"
+    }
+  ],
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-09-24T10:24:19.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f0c228d4c9c037bc98ceda"
+  },
+  "name": "Balzi Rossi",
+  "type": "ресторан",
+  "capacity": "260",
+  "address": "Москва, Театральный проезд, д. 2",
+  "link_page": "link_page",
+  "video": "1727054376054.mp4",
+  "tags": [
+    "Свет",
+    "Звук",
+    "Видео",
+    "3D"
+  ],
+  "cases": [
+    {
+      "$oid": "66f0df17458da82dc5991d97"
+    }
+  ],
+  "__v": 0
+}]
